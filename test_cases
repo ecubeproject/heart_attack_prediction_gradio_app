@@ -1,0 +1,5 @@
+Gender 1 age 62.729653 cigsPerDay 0 BPMeds 0 prevalentHyp 1 diabetes 0 totChol 172 sysBP 144 diaBP 84 BMI 26 heartRate 63 glucose 78.3 Predicted Probability (first observation): 59% Predicted Class with cutoff 0.42: 1 Stored y_test, y_proba, and custom predictions to disk.
+
+Gender 1 age 49.000000 cigsPerDay 0 BPMeds 0 prevalentHyp 1 diabetes 0 totChol 170 sysBP 112 diaBP 79 BMI 21 heartRate 60 glucose 80
+Predicted Probability (fifth observation): 0.13% Predicted Class with cutoff 0.42: 0
+
